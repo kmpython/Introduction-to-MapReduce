@@ -18,8 +18,3 @@ for line in sys.stdin:
 for k, v in store_dict.items():
     print"{0}\t{1}".format(k, v)
 
-
-
-
-
-
